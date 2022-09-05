@@ -1,7 +1,7 @@
 ---
 Author: Sofia Papastamkou
 Date: 09/05/2022
-Title: Playing Ranke.2 Worksop Program
+Title: Playing Ranke.2 Workshop Program
 ---
 # Playing Ranke.2 Workshop Program
 14-15 September, dhlab
